@@ -1,0 +1,83 @@
+{
+  "statusCode": 200,
+  "message": "",
+  "data":{
+    "enabled": true,
+    "subTitle": "My work",
+    "projects":[
+      {
+        "appMainColor": "#2BAAB7",
+        "appIcon": "wfi.png",
+        "appName": "WFI",
+        "appBio": "Get Our App Now Enjoy The Services Provided",
+        "fullDescription": "",
+        "mainPreviewImage": "wfi_preview.png",
+        "appStoreId": "watan.app.wfi",
+        "playPackageId": "watan.app.wfi",
+        "presentationImage": "wfi.png",
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Full time services"
+          },
+          {
+            "future": "Hourly services"
+          },
+          {
+            "future": "24 hours service.(24/7 service week days)"
+          },
+          {
+            "future": "Home Services (All home services All the fields)"
+          },
+          {
+            "future": "Skilled Technicians(A group of skilled technicians at your service)"
+          }
+        ]
+      },
+      {
+        "appMainColor": "#34a05f",
+        "appIcon": "tshtri.png",
+        "appName": "Tshtri",
+        "appBio": "Simply buy and sell…",
+        "fullDescription": "Tshtri is an online marketplace where you can sell and buy nearly anything quickly, easily, and safely. Within minutes, click, upload, and sell! Our platform helps you sell and buy the right product at the right place.",
+        "mainPreviewImage": "tshtri_preview_image.png",
+        "appStoreId": "com.tshtri",
+        "playPackageId": "com.tshtri.tshtri",
+        "presentationImage": "tshtri_presentation.png",
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Enjoy a better and faster user interface."
+          },
+          {
+            "future": "You can offer your product for sale easily, smoothly, and quickly, much more than before, and in fewer steps."
+          },
+          {
+            "future": "You can set a fixed price for your commodity or make it on a bidding process, and then you can set a default bid, or leave the matter open to bidders."
+          },
+          {
+            "future": "You will receive a notification whenever someone adds a higher bid than previously recorded."
+          },
+          {
+            "future": "Once a bid is accepted, the bidding process will be closed on the commodity, and a chat will be opened between you and the buyer for a direct agreement on the sale. If you both agree, you will choose (Item Sold Out) to show everyone that the commodity is (Sold)."
+          },
+          {
+            "future": "The buyer will also receive a notification with a message when his bid is accepted and he can reply to you directly."
+          },
+          {
+            "future": "You can now also respond to buyers' comments on your item."
+          }
+        ]
+      }
+
+    ]
+  }
+}
