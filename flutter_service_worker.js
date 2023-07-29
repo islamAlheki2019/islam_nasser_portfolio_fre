@@ -3,19 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "410befb3044e828f4d85f954aeca0f08",
-"index.html": "b805c5f0b0544d3f47e46917c4b19b71",
-"/": "b805c5f0b0544d3f47e46917c4b19b71",
-"main.dart.js": "4d36573ab5ea977d8507d4dd3bdc9edb",
-"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
+  "version.json": "d358dd90ff65c3628246812101685493",
+"index.html": "b6ef2d3f381fbb067bda77a0f7c25bf3",
+"/": "b6ef2d3f381fbb067bda77a0f7c25bf3",
+"main.dart.js": "8ea8af965fd5e144d4213193c39502cb",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "fd1c7166c879ac6d3488ba25d0630b48",
+"manifest.json": "0bc80ee29a21127774d4c228565f7085",
 "assets/AssetManifest.json": "9371c274b5b83a1a2ba422c18e5e7495",
-"assets/NOTICES": "2647fd5103cf97e52d1778c4b124f487",
+"assets/NOTICES": "77bf9e3ff46484949fd99a95cde6367c",
 "assets/FontManifest.json": "d9e67d0db9450562418f7df2a9426f2a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
@@ -62,11 +61,7 @@ const RESOURCES = {
 "assets/assets/gif/intro.json": "ff6d312c51c67e40edaa9b32e7e528c3",
 "assets/assets/gif/loader.json": "7de744154f2a89d14807a0f9c16827e5",
 "assets/assets/gif/no_internet.json": "c8455bf5cfa533341120fe55dd4110e0",
-"assets/assets/gif/loading_2.json": "3c8245b26aa5ad6e0d7399ab41de052d",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/assets/gif/loading_2.json": "3c8245b26aa5ad6e0d7399ab41de052d"
 };
 
 // The application shell files that are downloaded before a service worker can
