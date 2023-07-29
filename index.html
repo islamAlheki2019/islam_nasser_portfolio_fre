@@ -5,7 +5,6 @@
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="Islam Portfolio.">
-  <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -18,16 +17,42 @@
 
   <title>Islam Portfolio</title>
   <link rel="manifest" href="manifest.json">
+  <meta name="google-signin-client_id"
+        content="1:863210392119:ios:a9584a56f91c8b2f3c0db2" />
+
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '1644163334';
+    var serviceWorkerVersion = '1192963003';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
-
 </head>
 <body>
 
+
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+
+<!-- If you enabled Analytics in your project, add the Firebase SDK for Analytics -->
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-analytics.js"></script>
+
+<!-- Add Firebase products that you want to use -->
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+<script src="main.dart.js" type="application/javascript"></script>
+
+<script>
+    var firebaseConfig = {
+    apiKey: "AIzaSyB25knEha9moDTEdrOktusZVNcvYn1F8Vo",
+    appId: '1:863210392119:web:14beea346a9c5f3b3c0db2",
+    messagingSenderId: '863210392119",
+    projectId: "islam-portfolio',
+    authDomain: "islam-portfolio.firebaseapp.com",
+    databaseURL: "https://islam-portfolio-default-rtdb.asia-southeast1.firebasedatabase.app",
+    storageBucket: "islam-portfolio.appspot.com",
+    measurementId: "G-0Y2MJF0NGV",
+      };
+
+    firebase.initializeApp(firebaseConfig);
+  </script>
 
 <script>
     window.addEventListener('load', function(ev) {
