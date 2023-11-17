@@ -1,60 +1,46 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="Islam Portfolio.">
+  <meta name="description" content="A new Flutter project.">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="portfolio_islam">
+  <meta name="apple-mobile-web-app-title" content="test_web_porto_nov23">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>Islam Portfolio</title>
+  <title>test_web_porto_nov23</title>
   <link rel="manifest" href="manifest.json">
-  <meta name="google-signin-client_id"
-        content="1:863210392119:ios:a9584a56f91c8b2f3c0db2" />
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '2544341133';
+    const serviceWorkerVersion = "673124862";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 <body>
-
-
-<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
-
-<!-- If you enabled Analytics in your project, add the Firebase SDK for Analytics -->
-<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-analytics.js"></script>
-
-<!-- Add Firebase products that you want to use -->
-<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
-<script src="main.dart.js" type="application/javascript"></script>
-
-<script>
-    var firebaseConfig = {
-    apiKey: "AIzaSyB25knEha9moDTEdrOktusZVNcvYn1F8Vo",
-    appId: '1:863210392119:web:14beea346a9c5f3b3c0db2",
-    messagingSenderId: '863210392119",
-    projectId: "islam-portfolio',
-    authDomain: "islam-portfolio.firebaseapp.com",
-    databaseURL: "https://islam-portfolio-default-rtdb.asia-southeast1.firebasedatabase.app",
-    storageBucket: "islam-portfolio.appspot.com",
-    measurementId: "G-0Y2MJF0NGV",
-      };
-
-    firebase.initializeApp(firebaseConfig);
-  </script>
-
-<script>
+  <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
