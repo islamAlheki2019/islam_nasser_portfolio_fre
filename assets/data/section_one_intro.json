@@ -1,0 +1,15 @@
+{
+  "statusCode": 200,
+  "message": "",
+  "data":{
+    "enabled": true,
+    "headline1": "Hi!",
+    "headline2": "I’m Islam",
+    "bio": "We are Connecting you by the\nDigital life ..",
+    "cvUrl": "email",
+    "profileUrl": "https://islamalheki2019.github.io/http-islamcv.github.io-/images/yafndemClientIos.png",
+    "fullName": "Islam Nasser",
+    "jobTitle": "Mobile Application Development",
+    "jobLevel": "Team lead"
+  }
+}
