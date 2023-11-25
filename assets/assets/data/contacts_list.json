@@ -12,8 +12,8 @@
     },
     {
       "type": 2,
-      "url": "+201155687867",
-      "endPoint": "+201155687867",
+      "url": "+201093134356",
+      "endPoint": "+201093134356",
       "color": "#43d854",
       "enabled": true,
       "icon": "whatsapp"
@@ -30,9 +30,9 @@
       "type": 4,
       "url": "islam_alheki/",
       "endPoint": "islam_alheki/",
-      "color": "#55acee",
+      "color": "#000000",
       "enabled": true,
-      "icon": "twitter"
+      "icon": "twitter_x"
     },
     {
       "type": 5,
