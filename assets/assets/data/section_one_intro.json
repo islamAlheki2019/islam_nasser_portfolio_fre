@@ -1,0 +1,15 @@
+{
+  "statusCode": 200,
+  "message": "",
+  "data":{
+    "enabled": true,
+    "headline1": "Hi!",
+    "headline2": "I’m Islam",
+    "bio": "We are Connecting you by the\nDigital life ..",
+    "cvUrl": "https://files.fm/f/9ksfa33pyz",
+    "profileUrl": "assets/images/profile.png",
+    "fullName": "Islam Nasser",
+    "jobTitle": "Mobile Application Development",
+    "jobLevel": "Team lead"
+  }
+}
