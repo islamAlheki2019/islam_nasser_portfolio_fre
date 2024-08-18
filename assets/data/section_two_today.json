@@ -17,7 +17,7 @@
       {
         "type":8,
         "title": "Age",
-        "value": "28 Years"
+        "value": "29 Years"
       },
       {
         "type":8,
@@ -27,7 +27,7 @@
       {
         "type":7,
         "title": "Phone",
-        "value": "+201155687867"
+        "value": "+201093134356"
       },
       {
         "type":1,
@@ -38,9 +38,9 @@
     ],
     "chartSection":{
       "enabled": true,
-      "totalAppsCount":100,
-      "iosAppsCount":10,
-      "androidAppsCount":5,
+      "totalAppsCount":35,
+      "iosAppsCount":17,
+      "androidAppsCount":17,
       "webProjects":1
     }
   }

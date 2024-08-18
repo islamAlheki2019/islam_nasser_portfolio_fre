@@ -6,6 +6,202 @@
     "subTitle": "My work",
     "projects":[
       {
+        "appMainColor": "#556040",
+        "appIcon": "masharef_logo.png",
+        "appName": "Masharef",
+        "appBio": "Masharef Hills application provides advanced digital solutions for the residential community.",
+        "fullDescription": "Masharef Hills application provides advanced digital solutions for the residential community, enhances communication between residents, and improves the overall quality of life. It provides a range of services, including:\n- Entry and exit tracking system: The application can be used to track people entering and exiting the residential complex\n- Requesting services: Residents can request services from the complex management, such as maintenance of the complex facilities, through the application.\n- Booking facilities: Residents can book the complex facilities,",
+        "mainPreviewImage": "masharef_prev.png",
+        "appStoreId": "6511250388",
+        "playPackageId": "smart.design.application",
+        "presentationImage": "masharef_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": false,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Enhances communication between residents."
+          },
+          {
+            "future": "Improves the overall quality of life..as it provides a range of services."
+          },
+          {
+            "future": "Advanced digital solutions for the residential community."
+          },
+
+          {
+            "future": "Entry and exit tracking system: The application can be used to track the entry and exit of people from the residential complex."
+          },
+          {
+            "future": "Requesting services by residents requesting services from the complex management, such as maintenance of the complex facilities, through the application."
+          },
+          {
+            "future": "Reservation of facilities: Residents can reserve the complex facilities."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#194675",
+        "appIcon": "smart_design_logo.png",
+        "appName": "Smart Design",
+        "appBio": "Smart Design application provides advanced technical consultations and solutions.",
+        "fullDescription": "Smart Design App is an advanced platform crafted to streamline the management of engineering projects for clients of the consultancy. Designed to facilitate efficient communication between clients, contractors, and the consultancy, it offers a comprehensive set of tools for tracking project phases, materials, and timelines. The app also provides easy access to support and project information, and is available in both English and Arabic",
+        "mainPreviewImage": "smart_design_prev.png",
+        "appStoreId": "6449321785",
+        "playPackageId": "smart.design.application",
+        "presentationImage": "smart_design_pres.png",
+        "isSoon": false,
+        "isIosPlatform": false,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Offers a detailed overview of the consultancy's services, with descriptions to help users understand the scope and benefits of each service."
+          },
+          {
+            "future": "Displays a curated list of recent projects with descriptions and images. Confidential project details are secured and only accessible to clients with the unique project code\n."
+          },
+          {
+            "future": "Provides a visual summary of the consultancy’s project portfolio, showing total projects and their distribution by year, offering insights into trends and experience by Projects Progress Chart."
+          },
+
+          {
+            "future": "Details all the services offered by the consultancy, with comprehensive descriptions outlining the scope, benefits, and processes of each service. This screen is accessible to all users."
+          },
+          {
+            "future": "Showcases completed projects with general details and images. While the overview is public, specific confidential details are restricted to clients with the unique project code, ensuring sensitive information remains protected."
+          },
+          {
+            "future": "Features albums organized by project categories, including high-quality images and videos of completed projects. This gallery serves as a visual portfolio showcasing the consultancy’s achievements."
+          },
+          {
+            "future": "Describes the step-by-step process of project implementation. It includes an explanatory video providing a comprehensive overview of each phase, helping clients understand the project lifecycle."
+          },
+          {
+            "future": "Accessible only to clients via their unique project code, these screens allow detailed tracking of every phase and step in the project’s implementation. Clients can monitor progress, view phase descriptions, and receive updates or notifications about any delays, ensuring complete transparency and control over their projects."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#4C361F",
+        "appIcon": "z_card.png",
+        "appName": "ZCard",
+        "appBio": "Z Card is a program that provides discounts up to 100% on hospitals.",
+        "fullDescription": "Analyzes and radiology labs. This is designed\nThe program is for people who want to save money\ntheir medical expenses without sacrificing the quality of care they provide\nthey receive it.\nIn addition to medical discounts, Zed\nCard also discounts on other services such as\nClothing, cafe and restaurant, beauty center, supermarket, furniture, tourism, gym, electronics, real estate. Cars and entertainment. This program is a great way to save money for individuals 3,468",
+        "mainPreviewImage": "zcard_prev.png",
+        "appStoreId": "6449321785",
+        "playPackageId": "zcard.app.zcard",
+        "presentationImage": "zed_pers.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Analyzes and radiology labs."
+          },
+          {
+            "future": "The program is for people who want to save money."
+          },
+          {
+            "future": "This app aims to enhance communication between the company and its external clients, and improve the experience of internal projects through an easy-to-use and secure platform."
+          },
+
+          {
+            "future": "Medical Discounts"
+          },
+          {
+            "future": "clothing Discounts "
+          },
+          {
+            "future": "Cafe's Discounts"
+          }
+        ]
+      },
+      {
+        "appMainColor": "#13294B",
+        "appIcon": "digital_office.png",
+        "appName": "Digital Office",
+        "appBio": "Digitally Transforming, MENA Businesses.",
+        "fullDescription": "Watan Digital Office is a specialized platform that enables external clients with ongoing projects to engage directly with development teams and monitor project progress with ease and efficiency.",
+        "mainPreviewImage": "wfd_prev.png",
+        "appStoreId": "6449026931",
+        "playPackageId": "watan.digital.office.watan_digital_office",
+        "presentationImage": "wfd_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Direct and Efficient Communication: The app allows external clients to access development teams for technical discussions and direct project monitoring."
+          },
+          {
+            "future": "Effective Project Management: Users can track project schedules, manage tasks, and participate in critical strategic decision-making."
+          },
+          {
+            "future": "This app aims to enhance communication between the company and its external clients, and improve the experience of internal projects through an easy-to-use and secure platform."
+          },
+
+          {
+            "future": "24 hours service.(24/7 service week days)"
+          },
+          {
+            "future": "Home Services (All home services All the fields)"
+          },
+          {
+            "future": "Skilled Technicians(A group of skilled technicians at your service)"
+          }
+        ]
+      },
+      {
+        "appMainColor": "#0F6937",
+        "appIcon": "rotana.png",
+        "appName": "Rotana",
+        "appBio": "Your go-to for series, news, Live Stream and more. Catch up on what you missed. Your entertainment, on-demand.",
+        "fullDescription": "Experience Rotana and explore a world of entertainment! Easily watch the latest movies, series, video clips, and TV programs. Rotana offers a CATCHUP feature to watch any missed content or TV shows. The app also provides news and a TV guide to keep you updated with the latest content.",
+        "mainPreviewImage": "rotana_prev.png",
+        "appStoreId": "1238137062",
+        "playPackageId": "net.rotana",
+        "presentationImage": "rotana_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Easily watch the latest movies."
+          },
+          {
+            "future": "watch the latest series."
+          },
+          {
+            "future": "watch the latest video clips."
+          },
+
+          {
+            "future": "watch the latest movies"
+          },
+          {
+            "future": "watch the latest TV programs"
+          },
+          {
+            "future": "watch the latest News"
+          }
+        ]
+      },
+      {
         "appMainColor": "#2BAAB7",
         "appIcon": "wfi.png",
         "appName": "WFI",
@@ -242,9 +438,9 @@
         "appStoreId": "6446154108",
         "playPackageId": "afandem.app.afandem_client",
         "presentationImage": "afandem_pres.png",
-        "isSoon": false,
-        "isIosPlatform": true,
-        "isAndroidPlatform": true,
+        "isSoon": true,
+        "isIosPlatform": false,
+        "isAndroidPlatform": false,
         "isFlutterPlatform": true,
         "isWebPlatform": false,
         "isHuaweiPlatform": false,
@@ -279,9 +475,9 @@
         "appStoreId": "6446154657",
         "playPackageId": "app.afandem.afandem_service",
         "presentationImage": "checlk.png",
-        "isSoon": false,
-        "isIosPlatform": true,
-        "isAndroidPlatform": true,
+        "isSoon": true,
+        "isIosPlatform": false,
+        "isAndroidPlatform": false,
         "isFlutterPlatform": true,
         "isWebPlatform": false,
         "isHuaweiPlatform": false,
@@ -391,9 +587,9 @@
         "appStoreId": "",
         "playPackageId": "com.aitechno.jamela",
         "presentationImage": "jamela_pres.png",
-        "isSoon": false,
+        "isSoon": true,
         "isIosPlatform": false,
-        "isAndroidPlatform": true,
+        "isAndroidPlatform": false,
         "isFlutterPlatform": true,
         "isWebPlatform": false,
         "isHuaweiPlatform": false,
