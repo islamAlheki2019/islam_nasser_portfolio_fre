@@ -1,0 +1,503 @@
+{
+  "statusCode": 200,
+  "message": "",
+  "data":{
+    "enabled": true,
+    "subTitle": "My work",
+    "projects":[
+      {
+        "appMainColor": "#2BAAB7",
+        "appIcon": "wfi.png",
+        "appName": "WFI",
+        "appBio": "Get Our App Now Enjoy The Services Provided",
+        "fullDescription": "WFI which is one of the services of Watan First Human Resources Company which is interested in the continuous development of Providing labors services by ensuring the selection and training of labors to be more skilled, proficient, and able to meet our customer’s needs, by providing domestic labors that is committed to the highest standards. Quality as well as adherence to the laws and regulations related to this sector, and for our desire to provide a unique customer’s  experience, we wanted our start to be with you, through application (WFI) to facilitate contracting with trained domestic workers of all nationalities and professions that have been carefully selected to be in line with the needs of society in our beloved Kingdom, and you can choose various and different services and Packages of domestic labors that suits your needs through the application easily.",
+        "mainPreviewImage": "wfi_preview.png",
+        "appStoreId": "6443803109",
+        "playPackageId": "watan.app.wfi",
+        "presentationImage": "wfi.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Monthly contracts services"
+          },
+          {
+            "future": "Weekly & Daily services"
+          },
+          {
+            "future": "Hourly services"
+          },
+
+          {
+            "future": "24 hours service.(24/7 service week days)"
+          },
+          {
+            "future": "Home Services (All home services All the fields)"
+          },
+          {
+            "future": "Skilled Technicians(A group of skilled technicians at your service)"
+          }
+        ]
+      },
+      {
+        "appMainColor": "#5179F0",
+        "appIcon": "imploy.png",
+        "appName": "IMPLOY",
+        "appBio": "Your Employment Partner…",
+        "fullDescription": "With IMPLOY, you can easily filter and search through thousands of potential employees, as well as customize your searches based on specific job roles and skillsets. Additionally, our system provides an automated process for screening and interviewing potential candidates, making it easier for you to find the perfect fit for your organization.",
+        "mainPreviewImage": "imploy.png",
+        "appStoreId": "1659274612",
+        "playPackageId": "watan.imploy_app",
+        "presentationImage": "imploy_presentation.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Your Employment Partner."
+          },
+          {
+            "future": "connect professionals with the organizations that are best suited for them in terms of personal goals, environment, culture, and professional development."
+          },
+          {
+            "future": "help build the career of professionals by taking them to their dream jobs, sharing the right career path insights with them, and providing them with the right professional development guidance."
+          },
+          {
+            "future": "We help organizations improve their process of finding the best fit for their needs"
+          },
+          {
+            "future": "Advanced search to find both employee for company and vice versa"
+          },
+          {
+            "future": "A professional way to display your C.V as well as the job description"
+          }
+        ]
+      },
+      {
+        "appMainColor": "#34a05f",
+        "appIcon": "tshtri.png",
+        "appName": "Tshtri",
+        "appBio": "Simply buy and sell…",
+        "fullDescription": "Tshtri is an online marketplace where you can sell and buy nearly anything quickly, easily, and safely. Within minutes, click, upload, and sell! Our platform helps you sell and buy the right product at the right place.",
+        "mainPreviewImage": "tshtri_preview_image.png",
+        "appStoreId": "1602869931",
+        "playPackageId": "com.tshtri.tshtri",
+        "presentationImage": "tshtri_presentation.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Enjoy a better and faster user interface."
+          },
+          {
+            "future": "You can offer your product for sale easily, smoothly, and quickly, much more than before, and in fewer steps."
+          },
+          {
+            "future": "You can set a fixed price for your commodity or make it on a bidding process, and then you can set a default bid, or leave the matter open to bidders."
+          },
+          {
+            "future": "You will receive a notification whenever someone adds a higher bid than previously recorded."
+          },
+          {
+            "future": "Once a bid is accepted, the bidding process will be closed on the commodity, and a chat will be opened between you and the buyer for a direct agreement on the sale. If you both agree, you will choose (Item Sold Out) to show everyone that the commodity is (Sold)."
+          },
+          {
+            "future": "The buyer will also receive a notification with a message when his bid is accepted and he can reply to you directly."
+          },
+          {
+            "future": "You can now also respond to buyers' comments on your item."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#4C7DDC",
+        "appIcon": "warshti_client_logo.png",
+        "appName": "Warshati",
+        "appBio": "A workshop on your mobile phone…",
+        "fullDescription": "Warshati App is a one stop shop for your car maintenance where you can get cost estimate for your car’s damage repairs. Within minutes you will get the price quotation from authorized workshops in detail about how much you need to spend to fix your car.",
+        "mainPreviewImage": "warshti_client_main.png",
+        "appStoreId": "1610405764",
+        "playPackageId": "app.warshati",
+        "presentationImage": "warshti_client_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Direct integration with government entities so you will know at the accident spot how much you will get paid by insurance company"
+          },
+          {
+            "future": "report problems / sounds coming from different areas of your car through video or audio recording and get a quotation about what needs to be fixed and how much it would cost."
+          },
+          {
+            "future": "periodic service and maintenance of your car."
+          },
+          {
+            "future": "schedule appointments for repairs / service / maintenance."
+          },
+          {
+            "future": "order spare parts that need to be replaced directly to the workshop where you schedule an appointment."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#55a38f",
+        "appIcon": "warshtri_bis.png",
+        "appName": "Warshati Bis",
+        "appBio": "A workshop on your mobile phone…",
+        "fullDescription": "Warshati Bis App is a one stop shop for your car maintenance where you can get cost estimate for your car’s damage repairs. this app dedicated to workshops, to receive sent requests from clients, Within minutes you will get the price quotation from authorized workshops in detail about how much you need to spend to fix your car.",
+        "mainPreviewImage": "warshtri_bis_prev.png",
+        "appStoreId": "1610941647",
+        "playPackageId": "warshati.work_shop",
+        "presentationImage": "warshtri_bis_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Direct integration with government entities so you will know at the accident spot how much you will get paid by insurance company"
+          },
+          {
+            "future": "report problems / sounds coming from different areas of your car through video or audio recording and get a quotation about what needs to be fixed and how much it would cost."
+          },
+          {
+            "future": "periodic service and maintenance of your car."
+          },
+          {
+            "future": "schedule appointments for repairs / service / maintenance."
+          },
+          {
+            "future": "order spare parts that need to be replaced directly to the workshop where you schedule an appointment."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#6A8974",
+        "appIcon": "etoy_logo.png",
+        "appName": "eToy App",
+        "appBio": "eToy App: Swap, Giveaway, Sell…",
+        "fullDescription": "eToy App is a community that makes a difference, not just an app. eToy App is a unique platform that brings together like-minded people in their communities to swap, give away, or even sell preloved (used) toys in a pleasant setting. Say YES to spreading joy to other children. A simple act that teaches your child the worth of his possessions and how to take care of them (while also decluttering your home!). eToy App also contributes to the reduction of current plastic usage and waste on our earth",
+        "mainPreviewImage": "etoy_prev.png",
+        "appStoreId": "1579176714",
+        "playPackageId": "com.layouti.etoy",
+        "presentationImage": "etoy_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "swap, give away, or even sell preloved (used) toys in a pleasant setting."
+          },
+          {
+            "future": "Spread the culture of recycling and gifting. Create your profile, set your location, and join your local etoy community for kid’s toys."
+          },
+          {
+            "future": "eToy App also contributes to the reduction of current plastic usage and waste on our earth"
+          },
+          {
+            "future": "help you to decluttering your home!"
+          },
+          {
+            "future": "Browse and search for preloved toys, and engage your kid in finding their favorites too! etoy is a child-friendly environment app."
+          },
+           {
+            "future": "By using etoy app, you are helping in cutting down on the current plastic used resulting in waste across our planet & making another kid happy."
+          },
+          {
+            "future": "Contact the toy provider through etoy and confirm the drop-off point to close the deal. etoy is a peer-to-peer marketplace."
+          },
+          {
+            "future": "We also love to give back! Close the deal, and engage with etoyers to gain points & gifts. Be a recycling etoyer hero your child will proud of!."
+          }
+
+        ]
+      },
+      {
+        "appMainColor": "#343836",
+        "appIcon": "afandem.png",
+        "appName": "Afandem",
+        "appBio": "Elevate your dining journey…",
+        "fullDescription": "Afandem: Your ultimate dining companion for a seamless restaurant experience,revolutionizes dining out experience.",
+        "mainPreviewImage": "afandem_prev.png",
+        "appStoreId": "6446154108",
+        "playPackageId": "afandem.app.afandem_client",
+        "presentationImage": "afandem_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Scan and Access: you can easily scan the QR code on your table to access the restaurant's menu. No need to wait for a server to bring you a physical menu."
+          },
+          {
+            "future": "Customize Your Order: you can choose your order and customize it to your liking. You can specify any special requests or dietary requirements and ensure your meal is prepared just the way you like it."
+          },
+          {
+            "future": "Reviews: you can leave reviews for each item in the menu, as well as for the overall restaurant experience."
+          },
+          {
+            "future": "helps other diners make informed choices and provides valuable feedback to the restaurant."
+          },
+          {
+            "future": "Split the Bill: You can split the bill with your friends on the same table. No need to fumble with cash or calculate who owes what."
+          },
+          {
+            "future": "Easy Payment: You can pay for your meal using your Visa card or with cash, all from within the app."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#343836",
+        "appIcon": "afandem_admin_logo.png",
+        "appName": "Afandem Service",
+        "appBio": "Efficient Control for Success…",
+        "fullDescription": "Effortlessly manage your restaurant with Afandem Admin. Streamline operations and deliver exceptional service. Afandem Admin is the ultimate tool for restaurant owners and managers.\nTake control of your restaurant operations with ease:\n",
+        "mainPreviewImage": "afandem_admin_prev.png",
+        "appStoreId": "6446154657",
+        "playPackageId": "app.afandem.afandem_service",
+        "presentationImage": "checlk.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Streamline Menu: Create and update menus, add dishes, set prices, and manage categories effortlessly."
+          },
+          {
+            "future": "Efficient Order Processing: Receive and process customer orders in real-time."
+          },
+          {
+            "future": "Manage Tables: Seamlessly handle table reservations, assign tables to customers, and track seating availability."
+          },
+          {
+            "future": "Staff Organization: Assign roles, manage shifts, and track staff performance for smooth operations."
+          },
+          {
+            "future": "Insightful Analytics: Access comprehensive reports on sales, revenue, and customer feedback to make data-driven decisions."
+          },
+          {
+            "future": "User-Friendly Interface: Enjoy a seamless and intuitive interface that makes restaurant management a breeze."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#1D74F6",
+        "appIcon": "e7la2ly_barber.png",
+        "appName": "E7la2ly Barber",
+        "appBio": "For Services barber Men’s & Kids…",
+        "fullDescription": "Welcome to E7la2ly, For Services barber Men’s & Kids, Simply select your day & time to check availability and complete your Request",
+        "mainPreviewImage": "e7la2ly_barber_prev.png",
+        "appStoreId": "1492523365",
+        "playPackageId": "com.ittechno.e7la2ly_services",
+        "presentationImage": "e7la2ly_barber_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Ways the communicate voice calls."
+          },
+          {
+            "future": "The customer can reach the service performer through the map and his location."
+          },
+          {
+            "future": "The customer can rate the service performer."
+          },
+          {
+            "future": "The customer can reach the service performer through the map and his location."
+          },
+          {
+            "future": "get notified on our special offers."
+          }
+        ]
+      },
+      {
+        "appMainColor": "#141414",
+        "appIcon": "playstore.png",
+        "appName": "E7la2ly",
+        "appBio": "Shave Men’s & Kids…",
+        "fullDescription": "Welcome to E7la2ly, For Shave Men’s & Kids, Simply select your day & time to check availability and complete your Request",
+        "mainPreviewImage": "e7la2ly_prev.png",
+        "appStoreId": "1490568927",
+        "playPackageId": "com.ittechno.e7la2ly_client",
+        "presentationImage": "e7la2ly_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Simply select your day & time to check availability and complete your Request."
+          },
+          {
+            "future": "You can shop everything related to elegance products for men through our application."
+          },
+          {
+            "future": "Ways to communicate voice calls."
+          },
+          {
+            "future": "The customer can request what he needs."
+          },
+          {
+            "future": "The customer can reach the service performer through the map and his location."
+          },
+          {
+            "future": "you can become the most famous of the beautiful haircut in the city."
+          },
+          {
+            "future": "get notified on our special offers."
+          }
+        ]
+      },
+
+      {
+        "appMainColor": "#F090A6",
+        "appIcon": "jamela_logo.png",
+        "appName": "Jamela",
+        "appBio": "It takes you directly to show the products…",
+        "fullDescription": "(beautiful). The latest crop of mobile apps can turn your smartphone or tablet into your personal beauty advisor, directing you directly to personalized looks, products and regimens designed just for you",
+        "mainPreviewImage": "jamela_prev.png",
+        "appStoreId": "",
+        "playPackageId": "com.aitechno.jamela",
+        "presentationImage": "jamela_pres.png",
+        "isSoon": false,
+        "isIosPlatform": false,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Trending cosmetics and beauty products at 50-90% off retail."
+          },
+          {
+            "future": "You can shop everything related to elegance products for men through our application."
+          },
+          {
+            "future": "We go directly to the manufacturers to get you the best deals on the most popular products."
+          },
+
+          {
+            "future": "The latest crop of mobile apps can turn your smartphone or tablet into your personal beauty advisor."
+          },
+          {
+            "future": "directing you directly to personalized looks, products and regimens designed just for you."
+          },
+          {
+            "future": "Get in touch with our beauty experts and stay updated with all that’s in trend."
+          },
+          {
+            "future": "Shop for the latest range of products from the best of luxury brands."
+          }
+        ]
+      },
+
+      {
+        "appMainColor": "#F81C72",
+        "appIcon": "be_prety_icon.png",
+        "appName": "Be Pretty",
+        "appBio": "easy to use cosmetic shopping app…",
+        "fullDescription": "Buy beauty products online at the best prices and get great discounts with (be pretty) online shopping app",
+        "mainPreviewImage": "be_prety_prev.png",
+        "appStoreId": "1494550267",
+        "playPackageId": "com.ittechno.be_pretty",
+        "presentationImage": "be_prety_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Simply select your day & time to check availability and complete your Request."
+          },
+          {
+            "future": "Satisfy any woman’s shopping needs with our easy to use cosmetic shopping app. Order women cosmetics from our online cosmetic store and avail great discounts."
+          },
+          {
+            "future": "Ways to communicate voice calls."
+          },
+
+          {
+            "future": "The customer can request what she needs."
+          },
+          {
+            "future": "The customer can reach the service performer through the map and his location."
+          } ,
+          {
+            "future": "get notified on our special offers."
+          }
+        ]
+      },
+
+      {
+        "appMainColor": "#3972EE",
+        "appIcon": "be_service_icon.png",
+        "appName": "B.P Service",
+        "appBio": "Makeup beauty service Women & Girl…",
+        "fullDescription": "Welcome to B.P Service app , For Makeup beauty service Women & Girl",
+        "mainPreviewImage": "be_service_prev.png",
+        "appStoreId": "1496818211",
+        "playPackageId": "",
+        "presentationImage": "be_service_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": false,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "You can log in to the application by sending an application to join our institutions, and then we contact you B.P."
+          },
+          {
+            "future": "You can log in to the application by sending an application to join our institutions, and then we contact you B.P Service is an application used by the service provider, and the work team, where the service provider meets a cosmetic request from the Be Pretty for clients. application and goes to it from the map"
+          },
+          {
+            "future": "Ways to communicate voice calls."
+          },
+          {
+            "future": "The customer can reach the service performer through the map and his location."
+          } ,
+          {
+            "future": "get notified on our special offers."
+          }
+        ]
+      }
+
+
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "statusCode": 200,
+  "message": "",
+  "data":{
+    "enabled": true,
+    "experiences":[
+      {
+        "startYear": "FEB 2022",
+        "endYear": "Present",
+        "companyName": "Watan First Digital",
+        "companyLogoUrl": "watan.jpeg",
+        "position": "Mobile Development Team Lead (Full-time)",
+        "freelance": false,
+        "freelanceDate": ""
+      },
+
+      {
+        "startYear": "Mar 2025",
+        "endYear": "Present",
+        "companyName": "GOODS FOR DIGITAL SOLUTIONS",
+        "companyLogoUrl": "goods.png",
+        "position": "Flutter Mobile Application Developer (Freelance)",
+        "freelance": false,
+        "freelanceDate": ""
+      },
+
+      {
+        "startYear": "MAY 2024",
+        "endYear": "SEP 2024",
+        "companyName": "Smart Design",
+        "companyLogoUrl": "smart_design_logo.png",
+        "position": "Flutter Mobile Application Developer (Freelance)",
+        "freelance": false,
+        "freelanceDate": ""
+      },
+      {
+        "startYear": "AUG 2022",
+        "endYear": "AUG 2024",
+        "companyName": "CT Link",
+        "companyLogoUrl": "ct.png",
+        "position": "Flutter Mobile Application Developer (Freelance)",
+        "freelance": false,
+        "freelanceDate": "4 MONTH"
+      },
+      {
+        "startYear": "SEP 2021",
+        "endYear": "MAR 2022",
+        "companyName": "Rotana",
+        "companyLogoUrl": "rotana.png",
+        "position": "Mobile Development Team Lead (Part-time)",
+        "freelance": false,
+        "freelanceDate": ""
+      },
+      {
+        "startYear": "OCT 2021",
+        "endYear": "MAY 2022",
+        "companyName": "Viking information technology",
+        "companyLogoUrl": "z_card.png",
+        "position": "Mobile Development Team Lead (Freelance)",
+        "freelance": false,
+        "freelanceDate": ""
+      },
+      {
+        "startYear": "JAN 2021",
+        "endYear": "FEB 2022",
+        "companyName": "Be No.1",
+        "companyLogoUrl": "beno1.jpg",
+        "position": "Mobile Team Lead & Technical manager (Full-time)",
+        "freelance": false,
+        "freelanceDate": ""
+      },
+
+      {
+        "startYear": "MAR 2020",
+        "endYear": "JAN 2021",
+        "companyName": "Shatara",
+        "companyLogoUrl": "shatara.png",
+        "position": "Flutter Mobile Application Developer (Part-time)",
+        "freelance": false,
+        "freelanceDate": ""
+      },
+      {
+        "startYear": "MAY 2019",
+        "endYear": "APR 2020",
+        "companyName": "LAYOUTI",
+        "companyLogoUrl": "laiout.jpg",
+        "position": "Flutter Mobile Application Developer (Full-time)",
+        "freelance": false,
+        "freelanceDate": ""
+      },
+      {
+        "startYear": "JUN 2017",
+        "endYear": "JUN 2019",
+        "companyName": "AI TECHNOLOGY",
+        "companyLogoUrl": "ai.jpg",
+        "position": "Flutter Mobile Application Developer (Full-time)",
+        "freelance": false,
+        "freelanceDate": ""
+      }
+    ]
+  }
+}

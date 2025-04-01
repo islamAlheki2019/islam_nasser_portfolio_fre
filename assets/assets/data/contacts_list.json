@@ -1,0 +1,54 @@
+{
+  "statusCode": 200,
+  "message": "",
+  "data": [
+    {
+      "type": 1,
+      "url": "islam.alheky@gmail.com",
+      "endPoint": "islam.alheky@gmail.com",
+      "color": "#E87030",
+      "enabled": true,
+      "icon": "email"
+    },
+    {
+      "type": 2,
+      "url": "+201093134356",
+      "endPoint": "+201093134356",
+      "color": "#43d854",
+      "enabled": true,
+      "icon": "whatsapp"
+    },
+    {
+      "type": 3,
+      "url": "islam-nasser-75174a1a4",
+      "endPoint": "islam-nasser-75174a1a4",
+      "color": "#0077b5",
+      "enabled": true,
+      "icon": "linkedin"
+    },
+    {
+      "type": 4,
+      "url": "islam_alheki/",
+      "endPoint": "islam_alheki/",
+      "color": "#000000",
+      "enabled": true,
+      "icon": "twitter_x"
+    },
+    {
+      "type": 5,
+      "url": "official.alheki/",
+      "endPoint": "official.alheki/",
+      "color": "#833AB4",
+      "enabled": true,
+      "icon": "instagram"
+    },
+    {
+      "type": 6,
+      "url": "islam_alheki/",
+      "endPoint": "islam_alheki/",
+      "color": "#3b5998",
+      "enabled": false,
+      "icon": "facebook"
+    }
+  ]
+}
