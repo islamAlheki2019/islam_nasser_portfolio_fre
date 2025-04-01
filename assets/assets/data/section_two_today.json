@@ -45,9 +45,9 @@
     ],
     "chartSection":{
       "enabled": true,
-      "totalAppsCount":100,
-      "iosAppsCount":10,
-      "androidAppsCount":5,
+      "totalAppsCount":35,
+      "iosAppsCount":17,
+      "androidAppsCount":17,
       "webProjects":1
     }
   }

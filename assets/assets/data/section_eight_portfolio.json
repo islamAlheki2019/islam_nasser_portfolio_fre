@@ -3,18 +3,18 @@
   "message": "",
   "data":{
     "enabled": true,
-    "subTitle": "My work experience",
+    "subTitle": "My work",
     "projects":[
       {
-        "appMainColor": "#556040",
-        "appIcon": "masharef_logo.png",
-        "appName": "Masharef",
-        "appBio": "Masharef Hills application provides advanced digital solutions for the residential community.",
-        "fullDescription": "Masharef Hills application provides advanced digital solutions for the residential community, enhances communication between residents, and improves the overall quality of life. It provides a range of services, including:\n- Entry and exit tracking system: The application can be used to track people entering and exiting the residential complex\n- Requesting services: Residents can request services from the complex management, such as maintenance of the complex facilities, through the application.\n- Booking facilities: Residents can book the complex facilities,",
-        "mainPreviewImage": "masharef_prev.png",
-        "appStoreId": "6511250388",
-        "playPackageId": "com.masharef",
-        "presentationImage": "masharef_pres.png",
+        "appMainColor": "#E60000",
+        "appIcon": "goods.png",
+        "appName": "Al-Bidhaa",
+        "appBio": "Al-Bedaa - A comprehensive platform for building materials and equipment.",
+        "fullDescription": "Al-Bidhaa\" is the perfect app for advertising construction materials and equipment. Whether you're a seller looking to showcase your products or a buyer searching for the best deals, \"Al-Bidhaa\" provides an easy-to-use platform to buy and sell everything you need to build and equip your projects. Discover a wide range of materials and equipment from local and international suppliers, and start building a better future with \"Al-Bidhaa.",
+        "mainPreviewImage": "goods-prev.png",
+        "appStoreId": "6737291419",
+        "playPackageId": "goods.goods",
+        "presentationImage": "goods-pres.png",
         "isSoon": false,
         "isIosPlatform": true,
         "isAndroidPlatform": true,
@@ -23,26 +23,81 @@
         "isHuaweiPlatform": false,
         "futureList":[
           {
-            "future": "Enhances communication between residents."
+            "future": "Material Type Filter: Allow users to filter materials based on type, brand, and quality."
           },
           {
-            "future": "Improves the overall quality of life..as it provides a range of services."
+            "future": "Price Comparison: Enable users to compare prices for similar products across different vendors."
           },
           {
-            "future": "Advanced digital solutions for the residential community."
+            "future": "Project-Based Search: Search for materials based on the specific type of construction project."
           },
 
           {
-            "future": "Entry and exit tracking system: The application can be used to track the entry and exit of people from the residential complex."
+            "future": "Augmented Reality (AR) for Material Visualization: Let users visualize how materials (tiles, furniture, etc.) would look in a real-world space before purchasing."
           },
           {
-            "future": "Requesting services by residents requesting services from the complex management, such as maintenance of the complex facilities, through the application."
+            "future": "Seller Analytics: Provide sellers with detailed insights and reports on sales, inventory, and customer preferences."
           },
           {
-            "future": "Reservation of facilities: Residents can reserve the complex facilities."
+            "future": "Buyer Wishlist: Allow buyers to create wishlists for future projects or purchases."
+          },
+          {
+            "future": "Contractor Marketplace: A feature where contractors can connect with other professionals for collaborations or sub-contracting."
+          },
+          {
+            "future": "Project Collaboration Tools: Provide a space for project owners, engineers, and contractors to collaborate on purchasing decisions and project requirements."
+          },
+          {
+            "future": "Inventory Forecasting: Using AI to predict demand trends for various construction materials based on seasonality and market trends."
           }
         ]
       },
+      {
+        "appMainColor": "#332774",
+        "appIcon": "mekyal_app_icon.png",
+        "appName": "Mekyal",
+        "appBio": "Investment Opportunities Shows Us What’s Possible. Fund It Here.",
+        "fullDescription": "The focus on financial technology is increasing globally and locally as an ideal option for economic diversification, and given the enormous and distinctive potential of startups in the Kingdom, one of the goals of the Kingdom's Vision 2030 has become to support local startups and medium-sized companies.",
+        "mainPreviewImage": "mekyal-prev.png",
+        "appStoreId": "1641431778",
+        "playPackageId": "com.mekyal.crowdfunding",
+        "presentationImage": "mekyal_presnt.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "AI-Based Investment Recommendations: Personalized investment suggestions based on user behavior and market trends."
+          },
+          {
+            "future": "Real-Time Market Analysis: Insights into financial trends, including risk assessment and ROI predictions."
+          },
+          {
+            "future": "Portfolio Diversification Tool: Helps investors balance their portfolio across different asset types."
+          },
+
+          {
+            "future": "Investor Community Forum: A space for investors to discuss market trends and opportunities."
+          },
+          {
+            "future": "Expense & Investment Tracking: A dashboard for monitoring income, investments, and financial goals."
+          },
+          {
+            "future": "Auto-Invest Feature: Users can set predefined rules for automated periodic investments."
+          },
+          {
+            "future": "Regulatory Compliance Dashboard: A feature to keep investors updated on financial regulations."
+          },
+          {
+            "future": "Partnerships with Financial Institutions: Expanding investment opportunities beyond the current market."
+          }
+        ]
+      },
+
+
       {
         "appMainColor": "#194675",
         "appIcon": "smart_design_logo.png",
@@ -88,15 +143,15 @@
         ]
       },
       {
-        "appMainColor": "#332774",
-        "appIcon": "mekyal.png",
-        "appName": "Mekyal",
-        "appBio": "Innovative finance practices.",
-        "fullDescription": "Mekyal seeks to achieve leadership in the local market in the field of crowdfunding, which is concerned with supporting distinguished project owners in several sectors and linking them to the broad investor market to provide an opportunity to present their creative ideas and obtain support to develop investments and create a safe and promising investment environment that provides distinct opportunities for interested investors.",
-        "mainPreviewImage": "mekyal_preview.png",
-        "appStoreId": "1641431778",
-        "playPackageId": "com.mekyal.crowdfunding",
-        "presentationImage": "mekyal_present.png",
+        "appMainColor": "#556040",
+        "appIcon": "masharef_logo.png",
+        "appName": "Masharef",
+        "appBio": "Masharef Hills application provides advanced digital solutions for the residential community.",
+        "fullDescription": "Masharef Hills application provides advanced digital solutions for the residential community, enhances communication between residents, and improves the overall quality of life. It provides a range of services, including:\n- Entry and exit tracking system: The application can be used to track people entering and exiting the residential complex\n- Requesting services: Residents can request services from the complex management, such as maintenance of the complex facilities, through the application.\n- Booking facilities: Residents can book the complex facilities,",
+        "mainPreviewImage": "masharef_prev.png",
+        "appStoreId": "6511250388",
+        "playPackageId": "com.masharef",
+        "presentationImage": "masharef_pres.png",
         "isSoon": false,
         "isIosPlatform": true,
         "isAndroidPlatform": true,
@@ -105,127 +160,23 @@
         "isHuaweiPlatform": false,
         "futureList":[
           {
-            "future": "The focus on financial technology is increasing globally and locally as an ideal option for economic diversification, and given the enormous and distinctive potential of startups in the Kingdom, one of the goals of the Kingdom's Vision 2030 has become to support local startups and medium-sized companies.Based on this fact, Mekyal Finance has launched to provide the latest financial technology and crowdfunding services through a modern electronic platform run by qualified experts, as we choose distinguished companies with a promising future to provide advisory services to develop them and help them achieve the growth they aspire to, provide unique investment opportunities, and achieve distinctive returns. Mekyal seeks to achieve leadership in the local market in the field of crowdfunding, which is concerned with supporting distinguished project owners in several sectors and linking them to the broad investor market to provide an opportunity to present their creative ideas and obtain support to develop investments and create a safe and promising investment environment that provides distinct opportunities for interested investors."
+            "future": "Enhances communication between residents."
           },
           {
-            "future": "The focus on financial technology is increasing globally and locally as an ideal option for economic diversification, and given the enormous and distinctive potential of startups in the Kingdom, one of the goals of the Kingdom's Vision 2030 has become to support local startups and medium-sized companies.Based on this fact, Mekyal Finance has launched to provide the latest financial technology and crowdfunding services through a modern electronic platform run by qualified experts, as we choose distinguished companies with a promising future to provide advisory services to develop them and help them achieve the growth they aspire to, provide unique investment opportunities, and achieve distinctive returns. Mekyal seeks to achieve leadership in the local market in the field of crowdfunding, which is concerned with supporting distinguished project owners in several sectors and linking them to the broad investor market to provide an opportunity to present their creative ideas and obtain support to develop investments and create a safe and promising investment environment that provides distinct opportunities for interested investors."
+            "future": "Improves the overall quality of life..as it provides a range of services."
           },
           {
-            "future": "Mekyal seeks to achieve leadership in the local market in the field of crowdfunding, which is concerned with supporting distinguished project owners in several sectors and linking them to the broad investor market to provide an opportunity to present their creative ideas and obtain support to develop investments and create a safe and promising investment environment that provides distinct opportunities for interested investors."
-          }
-        ]
-      },
-      {
-        "appMainColor": "#0F6937",
-        "appIcon": "rotana.png",
-        "appName": "Rotana",
-        "appBio": "Your go-to for series, news, Live Stream and more. Catch up on what you missed. Your entertainment, on-demand.",
-        "fullDescription": "Experience Rotana and explore a world of entertainment! Easily watch the latest movies, series, video clips, and TV programs. Rotana offers a CATCHUP feature to watch any missed content or TV shows. The app also provides news and a TV guide to keep you updated with the latest content.",
-        "mainPreviewImage": "rotana_prev.png",
-        "appStoreId": "1238137062",
-        "playPackageId": "net.rotana",
-        "presentationImage": "rotana_pres.png",
-        "isSoon": false,
-        "isIosPlatform": true,
-        "isAndroidPlatform": true,
-        "isFlutterPlatform": true,
-        "isWebPlatform": false,
-        "isHuaweiPlatform": false,
-        "futureList":[
-          {
-            "future": "Easily watch the latest movies."
-          },
-          {
-            "future": "watch the latest series."
-          },
-          {
-            "future": "watch the latest video clips."
+            "future": "Advanced digital solutions for the residential community."
           },
 
           {
-            "future": "watch the latest movies"
+            "future": "Entry and exit tracking system: The application can be used to track the entry and exit of people from the residential complex."
           },
           {
-            "future": "watch the latest TV programs"
+            "future": "Requesting services by residents requesting services from the complex management, such as maintenance of the complex facilities, through the application."
           },
           {
-            "future": "watch the latest News"
-          }
-        ]
-      },
-      {
-        "appMainColor": "#5179F0",
-        "appIcon": "imploy.png",
-        "appName": "IMPLOY",
-        "appBio": "Your Employment Partner…",
-        "fullDescription": "With IMPLOY, you can easily filter and search through thousands of potential employees, as well as customize your searches based on specific job roles and skillsets. Additionally, our system provides an automated process for screening and interviewing potential candidates, making it easier for you to find the perfect fit for your organization.",
-        "mainPreviewImage": "imploy.png",
-        "appStoreId": "1659274612",
-        "playPackageId": "watan.imploy_app",
-        "presentationImage": "imploy_presentation.png",
-        "isSoon": false,
-        "isIosPlatform": true,
-        "isAndroidPlatform": true,
-        "isFlutterPlatform": true,
-        "isWebPlatform": false,
-        "isHuaweiPlatform": false,
-        "futureList":[
-          {
-            "future": "Your Employment Partner."
-          },
-          {
-            "future": "connect professionals with the organizations that are best suited for them in terms of personal goals, environment, culture, and professional development."
-          },
-          {
-            "future": "help build the career of professionals by taking them to their dream jobs, sharing the right career path insights with them, and providing them with the right professional development guidance."
-          },
-          {
-            "future": "We help organizations improve their process of finding the best fit for their needs"
-          },
-          {
-            "future": "Advanced search to find both employee for company and vice versa"
-          },
-          {
-            "future": "A professional way to display your C.V as well as the job description"
-          }
-        ]
-      },
-      {
-        "appMainColor": "#F86B34",
-        "appIcon": "shaari.png",
-        "appName": "Shaari",
-        "appBio": "The most enriched e-commerce platform in the KSA",
-        "fullDescription": "Tshtri is an online marketplace where you can sell and buy nearly anything quickly, easily, and safely. Within minutes, click, upload, and sell! Our platform helps you sell and buy the right product at the right place.",
-        "mainPreviewImage": "shaari_prev.png",
-        "appStoreId": "6474156266",
-        "playPackageId": "com.watanfd.shaari",
-        "presentationImage": "shaari_pres.png",
-        "isSoon": true,
-        "isIosPlatform": false,
-        "isAndroidPlatform": false,
-        "isFlutterPlatform": true,
-        "isWebPlatform": false,
-        "isHuaweiPlatform": false,
-        "futureList":[
-          {
-            "future": "than 2000 online shops with a wide range of products."
-          },
-          {
-            "future": "Exclusive offers and codes..Shop online and benefit from offers, codes and more."
-          }, {
-            "future": "Get your favorite brand new comers."
-          },
-          {
-            "future": "Experience and share favorites with friends."
-          },
-          {
-            "future": "Your product as it arrives swiftly at your doorstep."
-          },
-          {
-            "future": "Unlimited free delivery and exclusive offers with Shaari."
-          } ,
-          {
-            "future": "Shari Store is your ideal destination for online shopping with."
+            "future": "Reservation of facilities: Residents can reserve the complex facilities."
           }
         ]
       },
@@ -268,6 +219,82 @@
         ]
       },
       {
+        "appMainColor": "#13294B",
+        "appIcon": "digital_office.png",
+        "appName": "Digital Office",
+        "appBio": "Digitally Transforming, MENA Businesses.",
+        "fullDescription": "Watan Digital Office is a specialized platform that enables external clients with ongoing projects to engage directly with development teams and monitor project progress with ease and efficiency.",
+        "mainPreviewImage": "wfd_prev.png",
+        "appStoreId": "6449026931",
+        "playPackageId": "watan.digital.office.watan_digital_office",
+        "presentationImage": "wfd_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Direct and Efficient Communication: The app allows external clients to access development teams for technical discussions and direct project monitoring."
+          },
+          {
+            "future": "Effective Project Management: Users can track project schedules, manage tasks, and participate in critical strategic decision-making."
+          },
+          {
+            "future": "This app aims to enhance communication between the company and its external clients, and improve the experience of internal projects through an easy-to-use and secure platform."
+          },
+
+          {
+            "future": "24 hours service.(24/7 service week days)"
+          },
+          {
+            "future": "Home Services (All home services All the fields)"
+          },
+          {
+            "future": "Skilled Technicians(A group of skilled technicians at your service)"
+          }
+        ]
+      },
+      {
+        "appMainColor": "#0F6937",
+        "appIcon": "rotana.png",
+        "appName": "Rotana",
+        "appBio": "Your go-to for series, news, Live Stream and more. Catch up on what you missed. Your entertainment, on-demand.",
+        "fullDescription": "Experience Rotana and explore a world of entertainment! Easily watch the latest movies, series, video clips, and TV programs. Rotana offers a CATCHUP feature to watch any missed content or TV shows. The app also provides news and a TV guide to keep you updated with the latest content.",
+        "mainPreviewImage": "rotana_prev.png",
+        "appStoreId": "1238137062",
+        "playPackageId": "net.rotana",
+        "presentationImage": "rotana_pres.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Easily watch the latest movies."
+          },
+          {
+            "future": "watch the latest series."
+          },
+          {
+            "future": "watch the latest video clips."
+          },
+
+          {
+            "future": "watch the latest movies"
+          },
+          {
+            "future": "watch the latest TV programs"
+          },
+          {
+            "future": "watch the latest News"
+          }
+        ]
+      },
+      {
         "appMainColor": "#2BAAB7",
         "appIcon": "wfi.png",
         "appName": "WFI",
@@ -302,6 +329,43 @@
           },
           {
             "future": "Skilled Technicians(A group of skilled technicians at your service)"
+          }
+        ]
+      },
+      {
+        "appMainColor": "#5179F0",
+        "appIcon": "imploy.png",
+        "appName": "IMPLOY",
+        "appBio": "Your Employment Partner…",
+        "fullDescription": "With IMPLOY, you can easily filter and search through thousands of potential employees, as well as customize your searches based on specific job roles and skillsets. Additionally, our system provides an automated process for screening and interviewing potential candidates, making it easier for you to find the perfect fit for your organization.",
+        "mainPreviewImage": "imploy.png",
+        "appStoreId": "1659274612",
+        "playPackageId": "watan.imploy_app",
+        "presentationImage": "imploy_presentation.png",
+        "isSoon": false,
+        "isIosPlatform": true,
+        "isAndroidPlatform": true,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Your Employment Partner."
+          },
+          {
+            "future": "connect professionals with the organizations that are best suited for them in terms of personal goals, environment, culture, and professional development."
+          },
+          {
+            "future": "help build the career of professionals by taking them to their dream jobs, sharing the right career path insights with them, and providing them with the right professional development guidance."
+          },
+          {
+            "future": "We help organizations improve their process of finding the best fit for their needs"
+          },
+          {
+            "future": "Advanced search to find both employee for company and vice versa"
+          },
+          {
+            "future": "A professional way to display your C.V as well as the job description"
           }
         ]
       },
@@ -346,45 +410,6 @@
         ]
       },
       {
-        "appMainColor": "#13294B",
-        "appIcon": "digital_office.png",
-        "appName": "Digital Office",
-        "appBio": "Digitally Transforming, MENA Businesses.",
-        "fullDescription": "Watan Digital Office is a specialized platform that enables external clients with ongoing projects to engage directly with development teams and monitor project progress with ease and efficiency.",
-        "mainPreviewImage": "wfd_prev.png",
-        "appStoreId": "6449026931",
-        "playPackageId": "watan.digital.office.watan_digital_office",
-        "presentationImage": "wfd_pres.png",
-        "isSoon": false,
-        "isIosPlatform": true,
-        "isAndroidPlatform": true,
-        "isFlutterPlatform": true,
-        "isWebPlatform": false,
-        "isHuaweiPlatform": false,
-        "futureList":[
-          {
-            "future": "Direct and Efficient Communication: The app allows external clients to access development teams for technical discussions and direct project monitoring."
-          },
-          {
-            "future": "Effective Project Management: Users can track project schedules, manage tasks, and participate in critical strategic decision-making."
-          },
-          {
-            "future": "This app aims to enhance communication between the company and its external clients, and improve the experience of internal projects through an easy-to-use and secure platform."
-          },
-
-          {
-            "future": "24 hours service.(24/7 service week days)"
-          },
-          {
-            "future": "Home Services (All home services All the fields)"
-          },
-          {
-            "future": "Skilled Technicians(A group of skilled technicians at your service)"
-          }
-        ]
-      },
-
-      {
         "appMainColor": "#6A8974",
         "appIcon": "etoy_logo.png",
         "appName": "eToy App",
@@ -428,6 +453,45 @@
 
         ]
       },
+
+      {
+        "appMainColor": "#F86B34",
+        "appIcon": "shari.png",
+        "appName": "Shaari",
+        "appBio": "The most enriched e-commerce platform in the KSA…",
+        "fullDescription": "Shaari is an online marketplace where you can sell and buy nearly anything quickly, easily, and safely. Within minutes, click, upload, and sell! Our platform helps you sell and buy the right product at the right place.",
+        "mainPreviewImage": "shari.png",
+        "appStoreId": "1579176714",
+        "playPackageId": "com.layouti.etoy",
+        "presentationImage": "shari.png",
+        "isSoon": true,
+        "isIosPlatform": false,
+        "isAndroidPlatform": false,
+        "isFlutterPlatform": true,
+        "isWebPlatform": false,
+        "isHuaweiPlatform": false,
+        "futureList":[
+          {
+            "future": "Exclusive offers and codes...Shop online and benefit from offers, codes and more."
+          },
+          {
+            "future": "Than 2000 online shops with a wide range of products."
+          },
+          {
+            "future": "Experience and share favorites with friends."
+          },
+          {
+            "future": "Your product as it arrives swiftly at your doorstep."
+          },
+          {
+            "future": "Unlimited free delivery and exclusive offers with Shaari."
+          },
+          {
+            "future": "Shari Store is your ideal destination for online shopping with."
+          }
+        ]
+      },
+
 
       {
         "appMainColor": "#4C7DDC",
